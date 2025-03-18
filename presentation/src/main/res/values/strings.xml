@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="data_isn_t_provided">Данные не предоставленны</string>
+    <string name="data_is_provided">Данные предоставленны</string>
+    <string name="photo_success">Фотография принята</string>
+    <string name="photo_denied">Фотография отклонена</string>
+</resources>
